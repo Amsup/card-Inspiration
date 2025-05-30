@@ -8,7 +8,7 @@ Includes smooth glassmorphism effects, icons, and clean layout techniques using 
 ## 🚀 Live Demo
 
 [🔗 View on GitHub Pages]()  
-*(Update the link after deployment)*
+*(https://amsup.github.io/card-Inspiration/)*
 
 ## 💡 Features
 
