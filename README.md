@@ -3,7 +3,7 @@
 A responsive and modern profile card UI built with **Vite** and **Vanilla CSS**.  
 Includes smooth glassmorphism effects, icons, and clean layout techniques using `calc()`, CSS variables, percentages, and rem/px units.
 
-![Screenshot](./Sreenshot.png) <!-- replace with actual path if needed -->
+![Screenshot](./Screenshot.png) 
 
 ## 🚀 Live Demo
 
